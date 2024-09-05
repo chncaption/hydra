@@ -11,8 +11,8 @@
   },
   "prettier": "ory-prettier-styles",
   "dependencies": {
-    "@openapitools/openapi-generator-cli": "^2.1.18",
-    "conventional-changelog-cli": "~2.2.2",
+    "@openapitools/openapi-generator-cli": "^2.6.0",
+    "conventional-changelog-cli": "~5.0.0",
     "doctoc": "^2.2.1"
   },
   "devDependencies": {
